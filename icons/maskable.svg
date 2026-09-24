@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f8f5a"/>
+      <stop offset="1" stop-color="#0a3a24"/>
+    </linearGradient>
+  </defs>
+  <!-- Full-bleed background; artwork stays inside the 80% safe zone. -->
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <g transform="translate(256 256) scale(0.78) translate(-256 -239)">
+    <ellipse cx="256" cy="440" rx="92" ry="16" fill="#062a19" opacity=".45"/>
+    <path d="M256 432c-8 0-150-128-150-236a150 150 0 0 1 300 0c0 108-142 236-150 236z" fill="#ffffff"/>
+    <ellipse cx="256" cy="262" rx="84" ry="22" fill="#2fa56a"/>
+    <ellipse cx="232" cy="262" rx="15" ry="5.5" fill="#0a3a24"/>
+    <rect x="226" y="104" width="12" height="160" rx="6" fill="#0a3a24"/>
+    <path d="M238 108 L338 146 L238 184 Z" fill="#f4c430"/>
+  </g>
+</svg>
